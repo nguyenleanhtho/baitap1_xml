@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="HoaDon" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="HoaDon">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaHoaDon" type="xs:int" minOccurs="0" />
+                <xs:element name="NgayTaoHoaDon" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="NgayXuatHoaDon" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="PhuongThucThanhToan" type="xs:string" minOccurs="0" />
+                <xs:element name="MaBan" type="xs:string" minOccurs="0" />
+                <xs:element name="MaNhanVien" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <HoaDon>
+    <MaHoaDon>25</MaHoaDon>
+    <NgayTaoHoaDon>2024-11-28T22:36:56.877+07:00</NgayTaoHoaDon>
+    <NgayXuatHoaDon>2024-11-28T22:37:30.143+07:00</NgayXuatHoaDon>
+    <MaBan>B2</MaBan>
+  </HoaDon>
+  <HoaDon>
+    <MaHoaDon>26</MaHoaDon>
+    <NgayTaoHoaDon>2024-11-28T22:37:57.15+07:00</NgayTaoHoaDon>
+    <NgayXuatHoaDon>2024-11-28T22:38:22.21+07:00</NgayXuatHoaDon>
+    <MaBan>B1</MaBan>
+  </HoaDon>
+  <HoaDon>
+    <MaHoaDon>27</MaHoaDon>
+    <NgayTaoHoaDon>2024-11-28T22:38:25.19+07:00</NgayTaoHoaDon>
+    <MaBan>B4</MaBan>
+  </HoaDon>
+  <HoaDon>
+    <MaHoaDon>28</MaHoaDon>
+    <NgayTaoHoaDon>2024-11-28T22:38:33.033+07:00</NgayTaoHoaDon>
+    <NgayXuatHoaDon>2024-12-02T18:10:12.707+07:00</NgayXuatHoaDon>
+    <MaBan>B3</MaBan>
+  </HoaDon>
+  <HoaDon>
+    <MaHoaDon>29</MaHoaDon>
+    <NgayTaoHoaDon>2024-12-02T19:25:07.15+07:00</NgayTaoHoaDon>
+    <NgayXuatHoaDon>2024-12-02T19:25:19.217+07:00</NgayXuatHoaDon>
+    <MaBan>B1</MaBan>
+  </HoaDon>
+  <HoaDon>
+    <MaHoaDon>30</MaHoaDon>
+    <NgayTaoHoaDon>2024-12-02T20:05:28.913+07:00</NgayTaoHoaDon>
+    <MaBan>B5</MaBan>
+  </HoaDon>
+  <HoaDon>
+    <MaHoaDon>31</MaHoaDon>
+    <NgayTaoHoaDon>2024-12-14T16:08:06.287+07:00</NgayTaoHoaDon>
+    <NgayXuatHoaDon>2024-12-14T16:08:23.813+07:00</NgayXuatHoaDon>
+    <MaBan>B1</MaBan>
+  </HoaDon>
+</NewDataSet>

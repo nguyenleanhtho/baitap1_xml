@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<users>
+    <user username="nlat" password="nlat01" role="nhanvien" />
+    <user username="lhn" password="lhn01" role="nhanvien" />
+    <user username="ntbn" password="ntbn01" role="nhanvien" />
+    <user username="quanly" password="quanly01" role="quanly" />
+    <user username="cafe" password="cafe01" role="chucafe" />
+</users>

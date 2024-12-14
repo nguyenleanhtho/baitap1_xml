@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIUAKY\\WFA_Quanlyquancafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6FC6D7-AD3E-4DE4-A440-C17A678066F0}|WFA_Quanlyquancafe\\WFA_Quanlyquancafe.csproj|d:\\giuaky\\wfa_quanlyquancafe\\wfa_quanlyquancafe\\form_qlsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED6FC6D7-AD3E-4DE4-A440-C17A678066F0}|WFA_Quanlyquancafe\\WFA_Quanlyquancafe.csproj|solutionrelative:wfa_quanlyquancafe\\form_qlsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6FC6D7-AD3E-4DE4-A440-C17A678066F0}|WFA_Quanlyquancafe\\WFA_Quanlyquancafe.csproj|d:\\giuaky\\wfa_quanlyquancafe\\wfa_quanlyquancafe\\form_qlsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6FC6D7-AD3E-4DE4-A440-C17A678066F0}|WFA_Quanlyquancafe\\WFA_Quanlyquancafe.csproj|solutionrelative:wfa_quanlyquancafe\\form_qlsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6FC6D7-AD3E-4DE4-A440-C17A678066F0}|WFA_Quanlyquancafe\\WFA_Quanlyquancafe.csproj|d:\\giuaky\\wfa_quanlyquancafe\\wfa_quanlyquancafe\\form_quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED6FC6D7-AD3E-4DE4-A440-C17A678066F0}|WFA_Quanlyquancafe\\WFA_Quanlyquancafe.csproj|solutionrelative:wfa_quanlyquancafe\\form_quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_QLSanpham.cs",
+              "DocumentMoniker": "D:\\GIUAKY\\WFA_Quanlyquancafe\\WFA_Quanlyquancafe\\Form_QLSanpham.cs",
+              "RelativeDocumentMoniker": "WFA_Quanlyquancafe\\Form_QLSanpham.cs",
+              "ToolTip": "D:\\GIUAKY\\WFA_Quanlyquancafe\\WFA_Quanlyquancafe\\Form_QLSanpham.cs*",
+              "RelativeToolTip": "WFA_Quanlyquancafe\\Form_QLSanpham.cs*",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAAABkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:09:50.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_QuanLy.cs [Design]",
+              "DocumentMoniker": "D:\\GIUAKY\\WFA_Quanlyquancafe\\WFA_Quanlyquancafe\\Form_QuanLy.cs",
+              "RelativeDocumentMoniker": "WFA_Quanlyquancafe\\Form_QuanLy.cs",
+              "ToolTip": "D:\\GIUAKY\\WFA_Quanlyquancafe\\WFA_Quanlyquancafe\\Form_QuanLy.cs [Design]",
+              "RelativeToolTip": "WFA_Quanlyquancafe\\Form_QuanLy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:09:31.01Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_QLSanpham.cs [Design]",
+              "DocumentMoniker": "D:\\GIUAKY\\WFA_Quanlyquancafe\\WFA_Quanlyquancafe\\Form_QLSanpham.cs",
+              "RelativeDocumentMoniker": "WFA_Quanlyquancafe\\Form_QLSanpham.cs",
+              "ToolTip": "D:\\GIUAKY\\WFA_Quanlyquancafe\\WFA_Quanlyquancafe\\Form_QLSanpham.cs [Design]*",
+              "RelativeToolTip": "WFA_Quanlyquancafe\\Form_QLSanpham.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:09:30.205Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
